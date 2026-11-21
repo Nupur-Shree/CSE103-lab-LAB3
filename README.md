@@ -56,3 +56,5 @@ python3 main.py
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
 
+## Remote Updates
+This change was made directly on GitHub.
